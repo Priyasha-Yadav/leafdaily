@@ -4,10 +4,11 @@
 
 ## **🔗 Key Links**
 
-- **Live Site**: [LeafDaily](#)  
-- **Backend Repo**: [GitHub - Backend](#)  
-- **Frontend Repo**: [GitHub - Frontend](#)  
 - **Prototype**: [Figma Prototype](https://www.figma.com/design/rUVgdmJUXLelwqm0oFhEy0/Untitled?node-id=374-2383&t=hICjItB5EKPf9QeF-1)
+- **Node Server**: [Backend](https://leafdaily.onrender.com)
+- **Frontend**: [Frontend](https://leafdaily.onrender.com)  
+- **Backend Repo**: [GitHub - Backend](https://github.com/codinggita/leafdaily/tree/main/backend)  
+- **Frontend Repo**: [GitHub - Frontend](https://github.com/codinggita/leafdaily/tree/main/frontend)  
 
 ---
 
